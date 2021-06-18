@@ -7,7 +7,7 @@ A python script to convert video files into mp3 audio files.
 sudo apt install ffmpeg
 
 #Kali Linux
-sudo apt-getinstall ffmpeg
+sudo apt-get install ffmpeg
 
 ##### This script needs Python 3+
 
